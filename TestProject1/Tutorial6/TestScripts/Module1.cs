@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TestProject1.BaseClass;
+﻿using TestProject1.BaseClass;
 using TestProject1.PageObject;
 
 namespace TestProject1.Tutorial6.TestScripts
